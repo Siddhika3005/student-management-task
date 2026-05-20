@@ -4,6 +4,7 @@
   "description": "Task management REST API with auth and RBAC",
   "main": "server.js",
   "scripts": {
+    "build": "echo \"No build step required\"",
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
